@@ -1,0 +1,1 @@
+The Netflix Streaming Service like project. This project tries to imitate the real type Video Streaming scenarios that plays on the Netflix like streaming platforms. For eg- Hotstar and various other services.
